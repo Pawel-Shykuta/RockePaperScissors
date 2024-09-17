@@ -18,6 +18,7 @@ html,body{
     justify-content: center;
     margin-bottom: -380px;
     margin-top: -400px;
+    margin:auto;
 }
 
 #btn{
