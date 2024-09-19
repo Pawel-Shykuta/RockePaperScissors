@@ -84,7 +84,7 @@ function Play() {
         schet.value = 'Стрик Побед: ' + schetchik;
         secondIndex = null;
 
-            if(schetchik >=5){
+            if(schetchik >=3){
                 btnNextGame.style.display = "block";   
             }
                     
